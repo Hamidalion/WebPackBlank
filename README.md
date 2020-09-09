@@ -7,5 +7,5 @@
 npm init
 .editorconfig
 npm install --save-dev eslint (https://eslint.org/)
-./node_modules/.bin/eslint --init
+./node_modules/.bin/eslint --init   or   npx eslint --init
 ```
