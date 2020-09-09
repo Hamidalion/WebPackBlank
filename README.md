@@ -6,10 +6,10 @@
 ```
 npm init
 .editorconfig
-npm install --save-dev eslint (https://eslint.org/)
+npm install --save-dev eslint                                       (https://eslint.org/)
 ./node_modules/.bin/eslint --init   or   npx eslint --init
-npx install-peerdeps --dev eslint-config-airbnb-base
-npm i webpack webpack-cli --save-dev    (https://webpack.js.org/)
+npx install-peerdeps --dev eslint-config-airbnb-base                (https://www.npmjs.com/package/eslint-config-airbnb-base)
+npm i webpack webpack-cli --save-dev                                (https://webpack.js.org/)
     add in package.json new script "lint": "eslint"
     in .eslintrc.json exchange "es2021": true on es6  
 
