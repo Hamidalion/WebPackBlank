@@ -5,5 +5,5 @@
 
 ```
  - npm init
-
+ - .editorconfig
 ```
