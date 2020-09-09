@@ -6,5 +6,5 @@
 ```
  - npm init
  - .editorconfig
- - npm install --save-dev [eslint](https://eslint.org/) - [LearnJS](https://learn.javascript.ru/)
+ - npm install --save-dev eslint (https://eslint.org/)
 ```
