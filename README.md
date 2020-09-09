@@ -1,4 +1,9 @@
 # WebpackBlank
 
  - Install Node.JS 12.18
- - npm init
+ - To configure the environment, the following commands were executed:
+
+```
+ npm init
+
+```
