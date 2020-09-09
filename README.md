@@ -9,4 +9,5 @@ npm init
 npm install --save-dev eslint (https://eslint.org/)
 ./node_modules/.bin/eslint --init   or   npx eslint --init
 npx install-peerdeps --dev eslint-config-airbnb-base
+npm i webpack webpack-cli --save-dev    (https://webpack.js.org/)
 ```
