@@ -1,0 +1,34 @@
+{
+  "name": "webpackblank",
+  "version": "1.0.0",
+  "description": "Hamidalion",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamidalion/WebPackBlank.git"
+  },
+  "keywords": [
+    "npm",
+    "webpack",
+    "airbnb",
+    "eslint",
+    "babel"
+  ],
+  "author": "Kozlov I.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamidalion/WebPackBlank/issues"
+  },
+  "homepage": "https://github.com/Hamidalion/WebPackBlank#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
