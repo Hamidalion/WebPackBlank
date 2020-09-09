@@ -4,6 +4,6 @@
  - To configure the environment, the following commands were executed:
 
 ```
- npm init
+ - npm init
 
 ```
