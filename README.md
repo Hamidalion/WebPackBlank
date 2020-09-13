@@ -17,5 +17,5 @@ create .eslintignore and added ignoring files
 npm install --save-dev html-webpack-plugin                          https://webpack.js.org/plugins/html-webpack-plugin/
     add settings of html-webpack-plugin to use date index.html
     npm install --save-dev clean-webpack-plugin                     https://www.npmjs.com/package/clean-webpack-plugin/
-
+npm install eslint-loader --save-dev                                https://webpack.js.org/loaders/eslint-loader/
 ```
