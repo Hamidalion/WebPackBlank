@@ -16,4 +16,5 @@ npm i webpack webpack-cli --save-dev                                (https://web
 create .eslintignore and added ignoring files
 npm install --save-dev html-webpack-plugin                          (https://webpack.js.org/plugins/html-webpack-plugin/)
     add settings of html-webpack-plugin to use date index.html
+    npm install --save-dev clean-webpack-plugin
 ```
