@@ -12,5 +12,5 @@ npx install-peerdeps --dev eslint-config-airbnb-base                (https://www
 npm i webpack webpack-cli --save-dev                                (https://webpack.js.org/)
     add in package.json new script "lint": "eslint"
     in .eslintrc.json exchange "es2021": true on es6  
-
+npm install --save-dev html-webpack-plugin
 ```
