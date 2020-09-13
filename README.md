@@ -11,6 +11,9 @@ npm install --save-dev eslint                                       (https://esl
 npx install-peerdeps --dev eslint-config-airbnb-base                (https://www.npmjs.com/package/eslint-config-airbnb-base)
 npm i webpack webpack-cli --save-dev                                (https://webpack.js.org/)
     add in package.json new script "lint": "eslint"
-    in .eslintrc.json exchange "es2021": true on es6  
-npm install --save-dev html-webpack-plugin
+    in .eslintrc.json exchange "es2021": true on es6
+    create webpack.config.js and paste property from                (https://webpack.js.org/)
+create .eslintignore and added ignoring files
+npm install --save-dev html-webpack-plugin                          (https://webpack.js.org/plugins/html-webpack-plugin/)
+    add settings of html-webpack-plugin to use date index.html
 ```
